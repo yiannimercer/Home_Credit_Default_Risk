@@ -19,8 +19,10 @@ In this project we attempt to predict their cleint's repayment abilities.  Below
 * Machine Learning Models
   * Logistic Regression 
   * Random Forest
+    * Model Tuning and Feature Importance
   * Support Vector Machine
   * Light Gradient Boosting
+    * Model Tuning and Feature Importance
   
 ## Acknowledgements
 This project was developed by following along [Edward Yi. Liu's Kaggle Notebook](https://www.kaggle.com/edwardyiliu/from-data-to-features-and-classification) for the [Kaggle Competition Home Credit Group](https://www.kaggle.com/c/home-credit-default-risk/overview) sponsored.  
