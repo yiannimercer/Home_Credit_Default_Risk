@@ -26,4 +26,4 @@ In this project we attempt to predict their cleint's repayment abilities.  Below
 This project was developed by following along [Edward Yi. Liu's Kaggle Notebook](https://www.kaggle.com/edwardyiliu/from-data-to-features-and-classification) for the [Kaggle Competition Home Credit Group](https://www.kaggle.com/c/home-credit-default-risk/overview) sponsored.  
 
 ## Visualizations
-
+(https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_1.png)
