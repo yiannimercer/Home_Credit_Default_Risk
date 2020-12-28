@@ -27,3 +27,21 @@ This project was developed by following along [Edward Yi. Liu's Kaggle Notebook]
 
 ## Visualizations
 ![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_1.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_2.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_3.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_4.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_5.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_6.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_7.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_8.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_9.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_10.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_11.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_12.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_13.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_14.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_15.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_16.png)
+![Alt text](https://github.com/yiannimercer/Home_Credit_Default_Risk/blob/main/Images/Figure_17.png)
+
+
