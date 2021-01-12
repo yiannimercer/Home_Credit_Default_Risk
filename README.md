@@ -1,9 +1,9 @@
 # Home Credit Default Risk
 
-While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
+ While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging inviduals to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 ## Overview
-In this project we attempt to predict their client's repayment abilities.  Below you can see the various techniques that were applied.  After modeling extreme amounts of feature cleaning, engineering, and model tuning, we were able to achieve a model that predicts a client's ability to repay a loan 75% correct of the time.
+ In this project we attempt to predict their client's repayment abilities.  Below you can see the various techniques that were applied.  After modeling extreme amounts of feature cleaning, engineering, and model tuning, we were able to achieve a model that predicts a client's ability to repay a loan 75% correct of the time.
 
 * Data Cleaning
   * Imputting Missing Values 
